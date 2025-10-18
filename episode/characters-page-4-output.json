@@ -1,0 +1,32 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "pages": 42,
+        "next": 5,
+        "prev": 3,
+        "count": 826
+      },
+      "results": [
+        {
+          "id": "61",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Scary Terry",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        }
+      ]
+    }
+  }
+}

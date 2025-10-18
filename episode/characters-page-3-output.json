@@ -1,0 +1,32 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "pages": 42,
+        "next": 4,
+        "prev": 2,
+        "count": 826
+      },
+      "results": [
+        {
+          "id": "41",
+          "name": "Mr. Goldenfold",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Summer's Mom (Planetina)",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Giant Head",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        }
+      ]
+    }
+  }
+}
